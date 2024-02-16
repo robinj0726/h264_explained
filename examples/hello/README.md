@@ -1,0 +1,1 @@
+meson build --backend=vs
